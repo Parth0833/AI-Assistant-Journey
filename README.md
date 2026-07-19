@@ -65,6 +65,8 @@ This is not just a collection of code—it's a record of my learning, projects, 
 - Using logical expressions
 - Building menu-driven programs
 
+---
+
 ## ✅ Day 3 – Decision Making
 
 ### Topics Learned
@@ -81,9 +83,21 @@ This is not just a collection of code—it's a record of my learning, projects, 
 
 ---
 
+## ✅ Day 4 – Loops
+
+### Topics Learned
+- for loop
+- while loop
+- range()
+
+### Programs Built
+- Multiplication Table
+- Countdown Timer
+- Password Checker
+- Number Guessing Game
+
 # 🚀 Upcoming Topics
 
-- ⬜ Loops
 - ⬜ Functions
 - ⬜ Lists
 - ⬜ Tuples
