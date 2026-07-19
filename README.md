@@ -96,9 +96,28 @@ This is not just a collection of code—it's a record of my learning, projects, 
 - Password Checker
 - Number Guessing Game
 
+---
+
+## ✅ Day 5 – Functions
+
+### Topics Learned
+- def
+- Parameters
+- Arguments
+- Return
+- Local Variables
+- Global Variables
+
+### Programs Built
+- Calculator
+- Temperature Converter
+- Student Result Calculator
+- Password Generator
+
+---
+
 # 🚀 Upcoming Topics
 
-- ⬜ Functions
 - ⬜ Lists
 - ⬜ Tuples
 - ⬜ Dictionaries
