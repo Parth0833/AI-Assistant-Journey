@@ -116,9 +116,27 @@ This is not just a collection of code—it's a record of my learning, projects, 
 
 ---
 
+# Day 6
+
+Study Time:
+2–3 Hours
+
+Topics:
+Lists
+
+Most Difficult:
+(Write your own)
+
+Today's Achievement:
+Built programs using lists.
+
+Tomorrow's Goal:
+Master Tuples.
+
+---
+
 # 🚀 Upcoming Topics
 
-- ⬜ Lists
 - ⬜ Tuples
 - ⬜ Dictionaries
 - ⬜ File Handling
