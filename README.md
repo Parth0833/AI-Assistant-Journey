@@ -135,9 +135,27 @@ Master Tuples.
 
 ---
 
+# Day 7
+
+Study Time:
+2 Hours
+
+Topics:
+Tuples
+
+Most Difficult:
+(Write your own)
+
+Today's Achievement:
+Learned immutable collections.
+
+Tomorrow's Goal:
+Master Dictionaries.
+
+---
+
 # 🚀 Upcoming Topics
 
-- ⬜ Tuples
 - ⬜ Dictionaries
 - ⬜ File Handling
 - ⬜ Object-Oriented Programming
