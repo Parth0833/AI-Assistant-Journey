@@ -154,6 +154,25 @@ Master Dictionaries.
 
 ---
 
+# Day 8
+
+Study Time:
+2–3 Hours
+
+Topics:
+Dictionaries
+
+Most Difficult:
+(Write your own)
+
+Today's Achievement:
+Learned to store and manage data using dictionaries.
+
+Tomorrow's Goal:
+Master Sets.
+
+---
+
 # 🚀 Upcoming Topics
 
 - ⬜ Dictionaries
