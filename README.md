@@ -173,9 +173,27 @@ Master Sets.
 
 ---
 
+# Day 9
+
+Study Time:
+2–3 Hours
+
+Topics:
+Sets
+
+Most Difficult:
+(Write your own)
+
+Today's Achievement:
+Learned how to work with unique collections and perform set operations.
+
+Tomorrow's Goal:
+Master File Handling.
+
+---
+
 # 🚀 Upcoming Topics
 
-- ⬜ Dictionaries
 - ⬜ File Handling
 - ⬜ Object-Oriented Programming
 - ⬜ APIs
