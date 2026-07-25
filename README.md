@@ -192,9 +192,27 @@ Master File Handling.
 
 ---
 
+# Day 10
+
+Study Time:
+2–3 Hours
+
+Topics:
+File Handling
+
+Most Difficult:
+(Write your own)
+
+Today's Achievement:
+Created programs that save data permanently using files.
+
+Tomorrow's Goal:
+Learn Exception Handling.
+
+---
+
 # 🚀 Upcoming Topics
 
-- ⬜ File Handling
 - ⬜ Object-Oriented Programming
 - ⬜ APIs
 - ⬜ Machine Learning
