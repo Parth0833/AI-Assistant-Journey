@@ -211,6 +211,25 @@ Learn Exception Handling.
 
 ---
 
+# Day 11
+
+Study Time:
+2–3 Hours
+
+Topics:
+Exception Handling
+
+Most Difficult:
+(Write your own)
+
+Today's Achievement:
+Built programs that can handle runtime errors without crashing.
+
+Tomorrow's Goal:
+Learn Modules & Packages.
+
+---
+
 # 🚀 Upcoming Topics
 
 - ⬜ Object-Oriented Programming
