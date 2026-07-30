@@ -230,6 +230,34 @@ Learn Modules & Packages.
 
 ---
 
+## ✅ Day 12 – Modules & Packages
+
+### Topics Learned
+- Python Modules
+- import
+- from ... import
+- Aliases using as
+- Built-in Modules
+- Creating Custom Modules
+- Python Packages
+- __init__.py
+- pip
+
+### Built-in Modules Used
+- math
+- random
+- datetime
+
+### Projects Built
+- Custom Math Module
+- Calculator Package
+- Modular Calculator
+
+### Key Learning
+Learned how to organize Python programs into reusable modules and packages.
+
+---
+
 # 🚀 Upcoming Topics
 
 - ⬜ Object-Oriented Programming
