@@ -258,9 +258,45 @@ Learned how to organize Python programs into reusable modules and packages.
 
 ---
 
+## ✅ Day 13 – Object-Oriented Programming (Part 1)
+
+### Topics Learned
+- Introduction to Object-Oriented Programming (OOP)
+- Classes
+- Objects
+- Attributes
+- Methods
+- The `self` keyword
+- The `__init__()` constructor
+
+### Key Concepts
+- Class as a blueprint
+- Object as an instance of a class
+- Attributes to store object data
+- Methods to define object behavior
+- Creating multiple objects from the same class
+- Initializing object attributes using constructors
+
+### Projects Built
+- Student Class
+- Car Class
+- Bank Account Class
+- Car Management System
+- Employee Management System
+
+### Skills Gained
+- Creating and using classes
+- Creating multiple objects
+- Working with object attributes
+- Writing methods inside classes
+- Understanding constructors (`__init__`)
+- Using `self` to access object attributes and methods
+- Organizing programs using Object-Oriented Programming principles
+
+---
+
 # 🚀 Upcoming Topics
 
-- ⬜ Object-Oriented Programming
 - ⬜ APIs
 - ⬜ Machine Learning
 - ⬜ Deep Learning
