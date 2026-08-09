@@ -1,0 +1,10 @@
+{
+    "name": "Parth",
+    "age": 21,
+    "course": "AIML",
+    "skills": [
+        "Python",
+        "Data Analysis",
+        "Machine Learning"
+    ]
+}
