@@ -323,6 +323,40 @@ How does encapsulation protect an object's data?
 
 ---
 
+## 🚀 Day 15 – Polymorphism & Abstraction
+
+### 📚 What I Learned
+
+Today I completed the final part of my Python OOP foundation. I learned how different classes can provide different behavior while following the same structure, and how abstraction can be used to hide implementation details.
+
+### 🔹 Topics Covered
+
+- Method Overriding
+- Polymorphism
+- `super()`
+- Abstraction
+- Abstract Classes
+- `ABC` Module
+- `@abstractmethod`
+
+### 🧠 Key Concepts
+
+#### Method Overriding
+
+Learned how a child class can provide its own implementation of a method inherited from its parent class.
+
+#### Polymorphism
+
+Learned how the same method can behave differently depending on the object using it.
+
+Example:
+
+```python
+#dog.sound()
+#cat.sound()
+
+---
+
 # Day 16 – CSV & JSON
 
 ## CSV
@@ -368,6 +402,36 @@ JSON is useful for structured and nested data and is widely used when communicat
 ## Reflection
 
 Why is JSON especially useful when working with APIs?
+
+---
+
+## 🚀 Day 17 – Lambda Functions, Iterators & Generators
+
+### 📚 What I Learned
+
+Today I moved further into Intermediate Python and learned how Python can process data more efficiently and write more concise code.
+
+### 🔹 Topics Covered
+
+- Lambda Functions
+- `map()`
+- `filter()`
+- `sorted()` with Lambda
+- Iterators
+- `iter()`
+- `next()`
+- Generators
+- `yield`
+- Difference between `return` and `yield`
+- Memory-efficient data processing
+
+### 🧠 Key Concepts
+
+#### Lambda Functions
+Learned how to create small anonymous functions using:
+
+```python
+lambda arguments: expression
 
 ---
 
